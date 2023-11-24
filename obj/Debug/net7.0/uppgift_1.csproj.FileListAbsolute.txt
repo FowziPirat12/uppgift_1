@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\bin\Debug\net7.0\uppgift_1.exe
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\bin\Debug\net7.0\uppgift_1.deps.json
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\bin\Debug\net7.0\uppgift_1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\bin\Debug\net7.0\uppgift_1.dll
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\bin\Debug\net7.0\uppgift_1.pdb
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.dll
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\refint\uppgift_1.dll
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.pdb
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\uppgift_1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Programmeringsolympiaden\uppgift_1\obj\Debug\net7.0\ref\uppgift_1.dll
